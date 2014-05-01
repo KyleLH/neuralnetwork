@@ -1,5 +1,9 @@
 """Learning and prediction functions for perceptrons."""
 
+# NAME: Kyle Holzinger
+# BUID: U92663004
+# DATE: 9.4.14
+
 import common
 
 
